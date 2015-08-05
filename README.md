@@ -1,2 +1,2 @@
 # AngularLOB
-Deborah Kurata's Angular LOB (Plural sight Course) - Complete Application
+Deborah Kurata's AngularJS Line of Business applications (Plural sight Course) - Complete Application
